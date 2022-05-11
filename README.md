@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DankoOfficial aka nicegirlofficial
 - 👀 I’m interested in Learning new programming languages
 - 🌱 I’m currently learning Python (Enhancing my skills)
-- 📫 How to reach me nicegirlofficial#0834
+- 📫 Reach me on my telegram
 
 <!---
 DankoOfficial/DankoOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
