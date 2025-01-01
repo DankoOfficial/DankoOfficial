@@ -22,8 +22,9 @@
 [![DankoOfficial's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dankoofficial&theme=github)](https://github.com/DankoOfficial)
 
 ### Top projects:
-- [![TikTok Angrybird](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TikTok_logo.svg/20px-TikTok_logo.svg.png)](https://github.com/DankoOfficial/Tiktok-Angrybird) [TikTok Angrybird](https://github.com/DankoOfficial/Tiktok-Angrybird)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" alt="TikTok Logo" width="20" height="20" style="vertical-align:middle; margin-right:5px;"> [TikTok Angrybird](https://github.com/DankoOfficial/Tiktok-Angrybird)
 - [Roblox Tool](https://github.com/DankoOfficial/Loxy-Loxy)
+
 
 ### Currently Learning:
 - Cloud Infrastructure (AWS, GCP)
