@@ -13,11 +13,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi)]()
 
-### Most Used Languages:
+## Most Used Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dankoofficial&layout=compact)](https://github.com/DankoOfficial)  
 
-### GitHub Stats & Contributions
+## GitHub Stats & Contributions
 
 [![DankoOfficial's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dankoofficial&theme=github)](https://github.com/DankoOfficial)
 
