@@ -48,11 +48,16 @@
 ![](https://komarev.com/ghpvc/?username=dankoofficial&label=Profile+Visits&style=for-the-badge&color=blueviolet)
 
 ### Bullish List:
+- 🚀 Bitcoin
+- 🚀 Ethereum
+- 🚀 Chainlink
+- 🚀 Fetch.ai
 
-![Bitcoin](https://cryptologos.cc/logos/bitcoin-btc-logo.png)
-![Ethereum](https://cryptologos.cc/logos/ethereum-eth-logo.png)
-![Chainlink](https://cryptologos.cc/logos/chainlink-link-logo.png)
-![Fetch.ai](https://cryptologos.cc/logos/fetch-ai-fet-logo.png)
+![Bitcoin](https://cryptologos.cc/logos/bitcoin-btc-logo.png =50x50)
+![Ethereum](https://cryptologos.cc/logos/ethereum-eth-logo.png =50x50)
+![Chainlink](https://cryptologos.cc/logos/chainlink-link-logo.png =50x50)
+![Fetch.ai](https://cryptologos.cc/logos/artificial-superintelligence-alliance-asa-logo.png =50x50)
+
 
 ### Sponsors & Support:
 [![Sponsor](https://img.shields.io/badge/Sponsor-Donate-green)](https://github.com/sponsors/dankoofficial)
