@@ -2,14 +2,15 @@
 
 [![DankoOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=dankoofficial&theme=radical)](https://github.com/DankoOfficial)
 
+### Languages I Know:  
+
+[![My Skills](https://skillicons.dev/icons?i=python)]()  
+[![Frameworks](https://skillicons.dev/icons?i=flask,fastapi)]()  
+
 ## I'm a Developer  
 
 - 🔭 Currently working on an **OSINT Website**  
 - 🌱 Always learning and exploring new technologies  
-
-### Languages I Know:  
-
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js)]()  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dankoofficial&layout=compact)](https://github.com/DankoOfficial)  
 
