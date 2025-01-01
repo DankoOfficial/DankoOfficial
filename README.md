@@ -54,10 +54,10 @@
 - 🚀 Fetch.ai
 
 <div>
-  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Bitcoin" width="50" height="50"/>
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum" width="50" height="50"/>
-  <img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="50" height="50"/>
-  <img src="https://cryptologos.cc/logos/artificial-superintelligence-alliance-fet-logo.png" alt="Fetch.ai" width="50" height="50"/>
+  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Bitcoin" width="50" height="50" title="Bitcoin"/>
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum" width="50" height="50" title="Ethereum"/>
+  <img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="50" height="50" title="Chainlink"/>
+  <img src="https://cryptologos.cc/logos/artificial-superintelligence-alliance-fet-logo.png" alt="Fetch.ai" width="50" height="50" title="Fetch.ai"/>
 </div>
 
 ### Sponsors & Support:
