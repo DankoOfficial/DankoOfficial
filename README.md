@@ -53,11 +53,12 @@
 - 🚀 Chainlink
 - 🚀 Fetch.ai
 
-<img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Bitcoin" width="50" height="50"/>
-<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum" width="50" height="50"/>
-<img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="50" height="50"/>
-<img src="https://cryptologos.cc/logos/artificial-superintelligence-alliance-asa-logo.png" alt="Fetch.ai" width="50" height="50"/>
-
+<div>
+  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Bitcoin" width="50" height="50"/>
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum" width="50" height="50"/>
+  <img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="50" height="50"/>
+  <img src="https://cryptologos.cc/logos/artificial-superintelligence-alliance-asa-logo.png" alt="Fetch.ai" width="50" height="50"/>
+</div>
 
 ### Sponsors & Support:
 [![Sponsor](https://img.shields.io/badge/Sponsor-Donate-green)](https://github.com/sponsors/dankoofficial)
