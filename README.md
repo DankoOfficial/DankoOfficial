@@ -13,10 +13,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,fastapi,flask,github,postman)]()
 
-<img src="https://img.shields.io/badge/Playwright-Tool-green?style=flat-square&logo=microsoftedge&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/Streamlit-Tool-red?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/HTTP_Debugger-Tool-blue?style=flat-square&logo=internetexplorer&logoColor=white" alt="HTTP Debugger" />
-
 ## Most Used Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dankoofficial&layout=compact)](https://github.com/DankoOfficial)  
