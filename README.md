@@ -5,13 +5,11 @@
 ## About Me  
 
 - 🔭 Currently working on an **OSINT Website**  
-- 🌱 Passionate about exploring new technologies and building scalable backend systems  
 - 🛠️ Focused on creating automation tools and efficient solutions  
 - 🎓 Currently pursuing a degree in Computer Science  
-- 📚 Always learning and exploring new technologies to improve my skills  
 - 💬 Do not be afraid to message me :)
 
-### Languages & Tools:
+## Languages & Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi)]()
 
@@ -23,7 +21,7 @@
 
 [![DankoOfficial's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dankoofficial&theme=github)](https://github.com/DankoOfficial)
 
-### My top projects:
+### Top projects:
 - [TikTok Angrybird](https://github.com/DankoOfficial/Tiktok-Angrybird)
 - [Roblox Tool](https://github.com/DankoOfficial/Loxy-Loxy)
 
@@ -38,9 +36,9 @@
 
 ### Fun Facts:
 - I love solving complex problems with code.
-- When I'm not coding, you can find me sleeping or eating lol.
+- I'm into dropshipping.
 - I started coding at the age of 12
-- I enjoy experimenting with new backend frameworks and tools to create efficient systems.
+
 
 ### Achievements:
 - 🏆 Contributed to multiple open-source projects
