@@ -11,7 +11,9 @@
 
 ## Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,cpp,javascript,sql,nodejs,playwright,docker,aws,gcp)]()
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,fastapi,flask,playwright,streamlit,github,postman)]()
+
+<img src="https://img.shields.io/badge/HTTP_Debugger-Tool-blue?style=flat-square&logo=internetexplorer&logoColor=white" alt="HTTP Debugger" />
 
 ## Most Used Languages:
 
