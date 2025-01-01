@@ -22,7 +22,7 @@
 [![DankoOfficial's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dankoofficial&theme=github)](https://github.com/DankoOfficial)
 
 ### Top projects:
-- <img src="https://www.angrybirds.com/wp-content/uploads/2022/05/optimized-ABCOM_202203_1000x1000_CharacterDimensio_Red_Classic.png" alt="Angry Birds Logo" width="20" height="20" style="vertical-align:middle; margin-right:5px;"> [TikTok Angrybird](https://github.com/DankoOfficial/Tiktok-Angrybird)
+- <img src="https://static.wikia.nocookie.net/angrybirds/images/e/e1/Chuck_Chrome.png/revision/latest/scale-to-width/360?cb=20240621003628" alt="Angry Birds Logo" width="20" height="20" style="vertical-align:middle; margin-right:5px;"> [TikTok Angrybird](https://github.com/DankoOfficial/Tiktok-Angrybird)
 - [Roblox Tool](https://github.com/DankoOfficial/Loxy-Loxy)
 
 
