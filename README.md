@@ -17,8 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dankoofficial&layout=compact)](https://github.com/DankoOfficial)  
 
-[![DankoOfficial's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dankoofficial&theme=react)](https://github.com/DankoOfficial)
-
 ### Connect with Me  
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/skyycodes)  
