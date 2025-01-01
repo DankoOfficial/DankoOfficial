@@ -30,7 +30,7 @@
 - Advanced Python Techniques
 - Microservices Architecture
 
-### My socails  
+### My socials  
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/skyycodes)  
 
@@ -47,6 +47,14 @@
 
 ![](https://komarev.com/ghpvc/?username=dankoofficial&label=Profile+Visits&style=for-the-badge&color=blueviolet)
 
+### Bullish List:
+- 🚀 Bitcoin
+- 🚀 Ethereum
+- 🚀 Chainlink
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+
 ### Sponsors & Support:
 [![Sponsor](https://img.shields.io/badge/Sponsor-Donate-green)](https://github.com/sponsors/dankoofficial)
-
