@@ -2,8 +2,6 @@
 
 [![DankoOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=dankoofficial&theme=radical)](https://github.com/DankoOfficial)
 
-### Languages I Know:  
-
 [![My Skills](https://skillicons.dev/icons?i=python)]()  
 [![Frameworks](https://skillicons.dev/icons?i=flask,fastapi)]()  
 
