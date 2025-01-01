@@ -11,7 +11,7 @@
 
 ## Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi)]()
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,cpp,javascript,sql,nodejs,playwright,docker,aws,gcp)]()
 
 ## Most Used Languages:
 
