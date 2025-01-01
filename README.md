@@ -36,10 +36,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/skyycodes)  
 
 ### Fun Facts:
-- I love solving complex problems with code.
-- I'm into dropshipping.
-- I started coding at the age of 12
-
+- I love solving complex problems with code
+- Into dropshipping
+- Into Crypto
 
 ### Achievements:
 - 🏆 Contributed to multiple open-source projects
