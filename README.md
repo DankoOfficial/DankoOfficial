@@ -2,8 +2,8 @@
 
 [![DankoOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=dankoofficial&theme=radical)](https://github.com/DankoOfficial)
 
-[![My Skills](https://skillicons.dev/icons?i=python)]()  
-[![Frameworks](https://skillicons.dev/icons?i=flask,fastapi)]()  
+
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi)]()  
 
 ## I'm a Developer  
 
