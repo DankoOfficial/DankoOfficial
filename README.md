@@ -15,9 +15,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi)]()
 
-### GitHub Stats & Contributions
+### Most Used Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dankoofficial&layout=compact)](https://github.com/DankoOfficial)  
+
+### GitHub Stats & Contributions
 
 [![DankoOfficial's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dankoofficial&theme=github)](https://github.com/DankoOfficial)
 
@@ -47,14 +49,14 @@
 
 ![](https://komarev.com/ghpvc/?username=dankoofficial&label=Profile+Visits&style=for-the-badge&color=blueviolet)
 
-### Bullish List:
+### Forever bullish on:
 
 <div>
   <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Bitcoin" width="50" height="50" title="Bitcoin"/>
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum" width="50" height="50" title="Ethereum"/>
+  <img src="https://cryptologos.cc/logos/litecoin-ltc-logo.png" alt="Litecoin" width="50" height="50" title="Litecoin"/>
   <img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="50" height="50" title="Chainlink"/>
   <img src="https://cryptologos.cc/logos/artificial-superintelligence-alliance-fet-logo.png" alt="Fetch.ai" width="50" height="50" title="Fetch.ai"/>
-  <img src="https://cryptologos.cc/logos/litecoin-ltc-logo.png" alt="Litecoin" width="50" height="50" title="Litecoin"/>
 </div>
 
 ### Sponsors & Support:
