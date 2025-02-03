@@ -1,4 +1,4 @@
-### Hi there, I'm DankoOfficial, I like automating stuff and finding website/app vulnerabilities
+### 👋 Hi there, I'm DankoOfficial, I like automating stuff and finding website/app vulnerabilities
 
 [![DankoOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=dankoofficial&theme=radical)](https://github.com/DankoOfficial)
 
